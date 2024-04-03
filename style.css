@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    text-transform: capitalize;
+    text-decoration-line: overline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 5px;
+
+}
+
+#header1 {
+
+    color:red;
+}
+
+p:hover {
+    color:green;
+}
+p {
+    color: cyan;
+    font-family: "Courier New", monospace;
+    font-size: 12px;
+}
+
+#upper {
+    background-color:goldenrod;
+}
+#middle {
+    background-color:green;
+}
+#lower { 
+    background-color: goldenrod;
+}
